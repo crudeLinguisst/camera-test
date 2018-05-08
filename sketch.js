@@ -1,5 +1,5 @@
 let vid;
-let vScale = 20;
+let vScale = 10;
 let increment = 0;
 
 let movers = [];
